@@ -1,6 +1,11 @@
 # streamlit-pokedex
 Pokedex feita 100% em Streamlit 
 
+Ajustes a serem feitos.
+1 - Criar a logica do botão voltar e avançar que ainda nçao existe.
+2 - Criar graficos e dashborads com informações tecnicas do pokemon, usando o csv Pokedex_Ver_SV2.csv
+
+
 Vendo pela internet ideias de projetos, sempre vejo ideias parecidas e que muita gente acaba fazendo.
 A Pokedes foi um projeto que encontrei com frequencia, feita por diversos programadores e usando diversas linguagens de programação.
 Como estudo python e não sou muito chegado em FrontEnd (Não me julguem), cabei aprendendo um pouco sobre esse framework chamado streamlit, onde uso na empresa para alguns projetos de analise de dados ou para aplicações simples.
